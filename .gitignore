@@ -1,0 +1,9 @@
+# Eski sürüm / tekrar eden dosyalar (bilinçli olarak hariç tutuldu)
+*.docx.pdf
+Proje*.pdf
+gercekci_hayvan_veri_seti_v3.csv
+yaz*_proje.docx
+
+# Office geçici dosyaları
+~$*
+Thumbs.db
